@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customNight" parent="Theme.AppCompat">
+        <item name="android:textColor">@color/white_text</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:navigationBarColor">@color/down_bar_night</item>
+    </style>
+
+    <style name="customDay" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@color/black_text</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:navigationBarColor">@color/down_bar_day</item>
+        <item name="android:actionBarTheme">@color/up_bar_day</item>
+    </style>
+
+    <style name="defaultText">
+        <item name="android:fontFamily">@font/kazmann</item>
+        <item name="android:lineSpacingExtra">8dp</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:justificationMode">inter_word</item>
+    </style>
+
+    <style name="linkText" parent="defaultText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">@color/link</item>
+    </style>
+
+    <style name="signature" parent="defaultText">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="copy_button" parent="defaultText">
+        <item name="android:background">@color/copy_button_back</item>
+        <item name="android:textColor">@color/code</item>
+    </style>
+
+    <style name="button">
+        <item name="background">@color/button</item>
+    </style>
+</resources>
