@@ -1,0 +1,230 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="machine.learning"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+8-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] /home/timon/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="machine.learning.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /home/timon/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /home/timon/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="machine.learning.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" /> <!-- <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> -->
+15-->[androidx.core:core:1.9.0] /home/timon/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /home/timon/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16    <!-- <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="28" /> -->
+17    <application
+17-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:8:5-101:19
+18        android:allowBackup="true"
+18-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:9:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] /home/timon/.gradle/caches/transforms-3/9811bf6e0ea8002748e1a5d1e9eb40bd/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:10:9-65
+21        android:debuggable="true"
+22        android:extractNativeLibs="false"
+23        android:fullBackupContent="@xml/backup_rules"
+23-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:11:9-54
+24        android:icon="@mipmap/logo_192"
+24-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:13:9-40
+25        android:label="@string/app_name"
+25-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:12:9-41
+26        android:roundIcon="@mipmap/logo_192"
+26-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:14:9-45
+27        android:supportsRtl="true"
+27-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:15:9-35
+28        android:theme="@style/customDay" >
+28-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:16:9-41
+29        <activity
+29-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:18:9-28:20
+30            android:name="machine.learning.MainActivity"
+30-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:19:13-41
+31            android:exported="true" >
+31-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:20:13-36
+32            <intent-filter>
+32-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:21:13-24:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:22:17-69
+33-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:23:17-77
+35-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:23:27-74
+36            </intent-filter>
+37
+38            <meta-data
+38-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+39                android:name="android.app.lib_name"
+39-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+40                android:value="" />
+40-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+41        </activity>
+42        <activity
+42-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:29:9-37:20
+43            android:name="machine.learning.Beginning"
+43-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:30:13-38
+44            android:exported="false"
+44-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:31:13-37
+45            android:label="@string/beginning" >
+45-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:32:13-46
+46            <meta-data
+46-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+47                android:name="android.app.lib_name"
+47-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+48                android:resource="@string/beginning"
+48-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+49                android:value="@string/beginning" />
+49-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+50        </activity>
+51        <activity
+51-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:38:9-46:20
+52            android:name="machine.learning.BegTest"
+52-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:39:13-36
+53            android:exported="false"
+53-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:40:13-37
+54            android:label="@string/beginning" >
+54-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:41:13-46
+55            <meta-data
+55-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+56                android:name="android.app.lib_name"
+56-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+57                android:resource="@string/test"
+57-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+58                android:value="@string/test" />
+58-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+59        </activity>
+60        <activity
+60-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:47:9-55:20
+61            android:name="machine.learning.TipsLearnings"
+61-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:48:13-42
+62            android:exported="false"
+62-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:49:13-37
+63            android:label="@string/tipslearnings" >
+63-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:50:13-50
+64            <meta-data
+64-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+65                android:name="android.app.lib_name"
+65-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+66                android:resource="@string/tipslearnings"
+66-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+67                android:value="@string/tipslearnings" />
+67-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+68        </activity>
+69        <activity
+69-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:56:9-64:20
+70            android:name="machine.learning.ClassTask"
+70-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:57:13-38
+71            android:exported="false"
+71-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:58:13-37
+72            android:label="@string/classtask" >
+72-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:59:13-46
+73            <meta-data
+73-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+74                android:name="android.app.lib_name"
+74-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+75                android:resource="@string/classtask"
+75-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+76                android:value="@string/classtask" />
+76-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+77        </activity>
+78        <activity
+78-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:65:9-73:20
+79            android:name="machine.learning.WorkNeuro"
+79-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:66:13-38
+80            android:exported="false"
+80-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:67:13-37
+81            android:label="@string/about_neuro" >
+81-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:68:13-48
+82            <meta-data
+82-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+83                android:name="android.app.lib_name"
+83-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+84                android:resource="@string/about_neuro"
+84-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+85                android:value="@string/about_neuro" />
+85-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+86        </activity>
+87        <activity
+87-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:74:9-82:20
+88            android:name="machine.learning.NeuroLearning"
+88-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:75:13-42
+89            android:exported="false"
+89-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:76:13-37
+90            android:label="@string/neurolearning" >
+90-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:77:13-50
+91            <meta-data
+91-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+92                android:name="android.app.lib_name"
+92-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+93                android:resource="@string/neurolearning"
+93-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+94                android:value="@string/neurolearning" />
+94-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+95        </activity>
+96        <activity
+96-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:83:9-91:20
+97            android:name="machine.learning.Examples"
+97-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:84:13-37
+98            android:exported="false"
+98-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:85:13-37
+99            android:label="@string/examples" >
+99-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:86:13-45
+100            <meta-data
+100-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+101                android:name="android.app.lib_name"
+101-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+102                android:resource="@string/examples"
+102-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+103                android:value="@string/examples" />
+103-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+104        </activity>
+105        <activity
+105-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:92:9-100:20
+106            android:name="machine.learning.Settings"
+106-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:93:13-37
+107            android:exported="false"
+107-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:94:13-37
+108            android:label="@string/settings" >
+108-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:95:13-45
+109            <meta-data
+109-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:25:13-27:36
+110                android:name="android.app.lib_name"
+110-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:26:17-52
+111                android:resource="@string/settings"
+111-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:35:17-53
+112                android:value="@string/settings" />
+112-->/home/timon/AndroidStudioProjects/Machine_learning/app/src/main/AndroidManifest.xml:27:17-33
+113        </activity>
+114
+115        <provider
+115-->[androidx.emoji2:emoji2:1.2.0] /home/timon/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+116            android:name="androidx.startup.InitializationProvider"
+116-->[androidx.emoji2:emoji2:1.2.0] /home/timon/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+117            android:authorities="machine.learning.androidx-startup"
+117-->[androidx.emoji2:emoji2:1.2.0] /home/timon/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+118            android:exported="false" >
+118-->[androidx.emoji2:emoji2:1.2.0] /home/timon/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+119            <meta-data
+119-->[androidx.emoji2:emoji2:1.2.0] /home/timon/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+120                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+120-->[androidx.emoji2:emoji2:1.2.0] /home/timon/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+121                android:value="androidx.startup" />
+121-->[androidx.emoji2:emoji2:1.2.0] /home/timon/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+122            <meta-data
+122-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/timon/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+123                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+123-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/timon/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+124                android:value="androidx.startup" />
+124-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/timon/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+125        </provider>
+126    </application>
+127
+128</manifest>

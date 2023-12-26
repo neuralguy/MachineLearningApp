@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_sigmoid.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/sigmoid.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_diff_log.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/diff_log.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_relu.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/relu.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_update_w.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/update_w.jpg"
+    },
+    {
+        "merged": "machine.learning.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "machine.learning.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_back_7.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/back_7.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_der_1.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/der_1.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_dehaze.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/dehaze.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_settings.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/mipmap-hdpi_logo_72.webp.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/mipmap-hdpi/logo_72.webp"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_side_nav_bar.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/anim_button_translate_animation.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/anim/button_translate_animation.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_z.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/z.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/mipmap-xxhdpi_logo_144.webp.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/mipmap-xxhdpi/logo_144.webp"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_artur.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/artur.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_up_arrow.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/up_arrow.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_express_diff.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/express_diff.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_beginning.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_beginning.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/mipmap-mdpi_logo_48.webp.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/mipmap-mdpi/logo_48.webp"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_rosenblatt.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/rosenblatt.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_connections.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/connections.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_leaky_relu.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/leaky_relu.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_classtask.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_classtask.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_minimum.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/minimum.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_perceptron.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/perceptron.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/mipmap-xxxhdpi_logo_192.webp.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/mipmap-xxxhdpi/logo_192.webp"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_tanh.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/tanh.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_examples.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_examples.xml"
+    },
+    {
+        "merged": "machine.learning.app-merged_res-29:/menu_menu_main.xml.flat",
+        "source": "machine.learning.app-main-31:/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_not_linear.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/not_linear.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/anim_change_theme_animation.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/anim/change_theme_animation.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_back_main_night.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/back_main_night.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_begtest.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_begtest.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/menu_menu_main.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_linear.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/linear.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_chain_rule.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/chain_rule.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/anim_rotate_animation.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/anim/rotate_animation.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_neural_net.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/neural_net.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_mse.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/mse.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_data.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/data.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_sun.png.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/sun.png"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_der_3.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/der_3.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_last_neuro.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/last_neuro.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_a.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/a.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_moon.png.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/moon.png"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/menu_menu_drawer.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_round_button.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/round_button.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_minumum.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/minumum.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_c.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/c.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_chain_rule_explain.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/chain_rule_explain.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/mipmap-xhdpi_logo_96.webp.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/mipmap-xhdpi/logo_96.webp"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_copy.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/copy.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_tipslearnings.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_tipslearnings.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_neurolearning.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_neurolearning.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/navigation_mobile_navigation.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_nav_header.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_back_main_day.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/back_main_day.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/drawable_der_2.jpg.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/drawable/der_2.jpg"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/font_kazmann.ttf.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/font/kazmann.ttf"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_tipstest.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_tipstest.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-merged_res-29:/layout_activity_workneuro.xml.flat",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_workneuro.xml"
+    }
+]

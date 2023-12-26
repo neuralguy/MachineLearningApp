@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9871d98-1482-4573-b772-9c7e6a88527f" name="Changes" comment="Конечный результат для итогового проекта" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/timon/.android/avd/Pixel_2_API_31.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Machine_learning" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="navigationResourceFile" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WIkwnGdT6ePqRtS7KQ3UQQ1oNQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/values" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-189337988">
+      <recent name="machine.learning" />
+    </key>
+    <key name="android.template.-1090214592">
+      <recent name="machine.learning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/values" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values/my_styles" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/values/styles" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/styles" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="machine.learning" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Machine_learning.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9871d98-1482-4573-b772-9c7e6a88527f" name="Changes" comment="" />
+      <created>1696427722723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696427722723</updated>
+    </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1696624253218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696624253218</updated>
+    </task>
+    <task id="LOCAL-00002" summary="дохуя всего сделал">
+      <created>1697288115452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697288115452</updated>
+    </task>
+    <task id="LOCAL-00003" summary="сделал анимацию в main и тень у текста">
+      <created>1697307176075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697307176076</updated>
+    </task>
+    <task id="LOCAL-00004" summary="сделал анимацию в main и тень у текста">
+      <created>1697307235785</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697307235785</updated>
+    </task>
+    <task id="LOCAL-00005" summary="окончательно закончил с анимацией темы и применил её в main и beginning">
+      <created>1697485283558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697485283558</updated>
+    </task>
+    <task id="LOCAL-00006" summary="лучше всё сохранить, перед меню">
+      <created>1697644394609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697644394609</updated>
+    </task>
+    <task id="LOCAL-00007" summary="сделал меню, но не работают ссылки">
+      <created>1697826235559</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697826235559</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ссылки починил, добавил настройки, изменил gradle, начинаю делать плавное меню">
+      <created>1697998756778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697998756778</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Первый коммит. Готово:&#10;1. Экран приветствия&#10;2. Экран введения&#10;3. Стили и анимации">
+      <created>1699881827487</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699881827487</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Вместо кнопки сделал полоску слева, намекающую на меню">
+      <created>1700156226698</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1700156226698</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Перенёс функцию навигации в отдельный файл Navigator.java и сделал TipsLearnings activity">
+      <created>1700215642838</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700215642838</updated>
+    </task>
+    <task id="LOCAL-00012" summary="сделал размер картинок 600х600, луна и солнце по 100х100, также скорость анимации смены темы с 400 до 350. удалил картинки со смайлами">
+      <created>1700217570769</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700217570769</updated>
+    </task>
+    <task id="LOCAL-00013" summary="готовы beginning, tipslearnings. возился с темами, всё наконец работает">
+      <created>1700671834302</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1700671834302</updated>
+    </task>
+    <task id="LOCAL-00014" summary="всё работает, начинаю classtask">
+      <created>1700733426727</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1700733426727</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Начал workneuro, ещё настройки немного и сейчас всё работает, 10 дней осталось">
+      <created>1702799480248</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1702799480248</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Делаю workneuro. Почти закончил с функциями активации. поменял размеры всех фоток">
+      <created>1702994606728</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1702994606729</updated>
+    </task>
+    <task id="LOCAL-00017" summary="поменял фотки, отрефакторил файлы немного и добавил плавующую кнопку для перелистывания вверх. все перелистывания теперь плавные">
+      <created>1703101831816</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703101831817</updated>
+    </task>
+    <task id="LOCAL-00018" summary="добавил пару кнопок, новое activity, работаю над объяснением back propagation. ещё переместил все стили в 1 файл">
+      <created>1703193082157</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703193082158</updated>
+    </task>
+    <task id="LOCAL-00019" summary="День до проекта. закончил обучение нейросетей, убрал классификацию, примеры и настройки">
+      <created>1703538442975</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1703538442975</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Конечный результат для итогового проекта">
+      <created>1703617091214</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1703617091214</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="19bfb715-c211-424c-921f-34bb35a0b085">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="start" />
+    <MESSAGE value="дохуя всего сделал" />
+    <MESSAGE value="сделал дохуя хуйни" />
+    <MESSAGE value="окончательно закончил с анимацией темы и применил её в main и beginning" />
+    <MESSAGE value="лучше всё сохранить, перед меню" />
+    <MESSAGE value="сделал меню, но не работают ссылки" />
+    <MESSAGE value="ссылки починил, добавил настройки, изменил gradle, начинаю делать плавное меню" />
+    <MESSAGE value="Первый коммит. Готово:&#10;1. Экран приветствия&#10;2. Экран введения&#10;3. Стили и анимации" />
+    <MESSAGE value="Вместо кнопки сделал полоску слева, намекающую на меню" />
+    <MESSAGE value="Перенёс функцию навигации в отдельный файл Navigator.java и сделал TipsLearnings activity" />
+    <MESSAGE value="сделал размер картинок 600х600, луна и солнце по 100х100, также скорость анимации смены темы с 400 до 350. удалил картинки со смайлами" />
+    <MESSAGE value="готовы beginning, tipslearnings. возился с темами, всё наконец работает" />
+    <MESSAGE value="всё работает, начинаю classtask" />
+    <MESSAGE value="Начал workneuro, ещё настройки немного и сейчас всё работает, 10 дней осталось" />
+    <MESSAGE value="Делаю workneuro. Почти закончил с функциями активации. поменял размеры всех фоток" />
+    <MESSAGE value="поменял фотки, отрефакторил файлы немного и добавил плавующую кнопку для перелистывания вверх. все перелистывания теперь плавные" />
+    <MESSAGE value="добавил пару кнопок, новое activity, работаю над объяснением back propagation. ещё переместил все стили в 1 файл" />
+    <MESSAGE value="День до проекта. закончил обучение нейросетей, убрал классификацию, примеры и настройки" />
+    <MESSAGE value="Конечный результат для итогового проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Конечный результат для итогового проекта" />
+  </component>
+</project>

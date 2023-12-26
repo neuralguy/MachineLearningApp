@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_neurolearning.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_neurolearning.xml"
+    },
+    {
+        "merged": "machine.learning.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "machine.learning.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_workneuro.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_workneuro.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_beginning.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_beginning.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/nav_header.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_tipstest.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_tipstest.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_tipslearnings.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_tipslearnings.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_begtest.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_begtest.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_settings.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_examples.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_examples.xml"
+    },
+    {
+        "merged": "/home/timon/.gradle/daemon/7.4/machine.learning.app-mergeDebugResources-28:/layout/activity_classtask.xml",
+        "source": "/home/timon/.gradle/daemon/7.4/machine.learning.app-main-31:/layout/activity_classtask.xml"
+    }
+]
